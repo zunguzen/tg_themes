@@ -5,6 +5,10 @@ They come in three dark/light pairs, so you can use them with Auto-Night Mode.
 
 ## Installation
 
+**Android:** each theme also has an `.attheme` file with the same name (for example `washi.attheme`). Send it to yourself, tap it and choose **Apply**. The iOS links below work on iPhone only.
+
+**iPhone:**
+
 1. Send a `.tgios-theme` file to yourself (for example, in Saved Messages).
 2. Tap the file and choose **Apply**.
 3. To switch automatically, apply the light theme first. Then go to **Settings › Appearance › Auto-Night Mode**, choose **Automatic** or **Scheduled**, and pick the dark theme from the same pair.
