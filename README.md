@@ -2,31 +2,34 @@
 
 Custom color themes for Telegram on iOS (`.tgios-theme` files). Each set has its own folder and its own README with the full details.
 
+## Installation
+
+Open the link of a theme below on your iPhone, then tap **Apply**. That is all.
+
+To switch between light and dark automatically, apply the light theme first. Then go to **Settings › Appearance › Auto-Night Mode**, choose **Automatic** or **Scheduled**, and pick the dark theme of the same set.
+
 ## Theme sets
 
-| Set | Themes | Style |
-|---|---|---|
-| [Japan](Japan/README.md) (霧 Kiri) | 6, in three dark/light pairs | Quiet, Zen-inspired colors: ink, mist, moon and snow |
-| [Raster](Raster/README.md) | 2, one dark and one light | Minimal Swiss style: black and white with one red accent |
+### [Japan](Japan/README.md) (霧 Kiri)
 
-### Japan
+Six quiet, Zen-inspired themes in three dark/light pairs: ink, mist, moon and snow.
 
 | Pair | Dark | Light |
 |---|---|---|
-| Sumi (ink) | `sumi-yo` | `washi` |
-| Kiri (mist) | `koke-giri` | `asagiri` |
-| Tsuki (moon and snow) | `sugi-tsuki` | `yuki-dera` |
+| Sumi (ink) | [Sumi-yo](https://t.me/addtheme/sumiyo) | [Washi](https://t.me/addtheme/washi) |
+| Kiri (mist) | [Koke-giri](https://t.me/addtheme/kokegiri) | [Asagiri](https://t.me/addtheme/asagiri) |
+| Tsuki (moon and snow) | [Sugi-tsuki](https://t.me/addtheme/sugitsuki) | [Yuki-dera](https://t.me/addtheme/yukidera) |
 
-### Raster
+### [Raster](Raster/README.md)
 
-- `raster-weiss`: light
-- `raster-schwarz`: dark
+Two minimal themes in the Swiss style: black and white with one red accent.
 
-## Installation
+- Light: [raster-weiss](https://t.me/addtheme/rasterSchwarz)
+- Dark: [raster-schwarz](https://t.me/addtheme/rasterWeiss)
 
-1. Send a `.tgios-theme` file to yourself (for example, in Saved Messages).
-2. Tap the file in Telegram for iOS and choose **Apply**.
-3. Optional: to switch between light and dark automatically, apply the light theme first. Then go to **Settings › Appearance › Auto-Night Mode**, choose **Automatic** or **Scheduled**, and pick the dark theme of the same set.
+## Install from a file
+
+If a link does not work, send the `.tgios-theme` file to yourself (for example, in Saved Messages), tap it in Telegram for iOS and choose **Apply**.
 
 ## Repository layout
 
