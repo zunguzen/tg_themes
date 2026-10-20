@@ -14,12 +14,14 @@ They come in three dark/light pairs, so you can use them with Auto-Night Mode.
 Ink wash and the paper it is painted on. Accent: vermilion, like a hanko seal.
 
 ### 墨夜 Sumi-yo — Dark
-*すみよ · ink night* · `sumi-yo.tgios-theme` https://t.me/addtheme/sumiyo
+*すみよ · ink night* · `sumi-yo.tgios-theme` 
+https://t.me/addtheme/sumiyo
 
 Mountains at night painted in sumi ink. Near-black charcoal with warm off-white text. The only color is a muted vermilion.
 
 ### 和紙 Washi — Light
-*わし · Japanese paper* · `washi.tgios-theme` https://t.me/addtheme/washi
+*わし · Japanese paper* · `washi.tgios-theme` 
+https://t.me/addtheme/washi
 
 Handmade mulberry paper. Warm ivory background, ink-black text and outgoing bubbles, with the same vermilion seal accent.
 
@@ -28,12 +30,14 @@ Handmade mulberry paper. Warm ivory background, ink-black text and outgoing bubb
 Fog moving through forest and over water. Accent: moss green.
 
 ### 苔霧 Koke-giri — Dark
-*こけぎり · moss fog* · `koke-giri.tgios-theme` https://t.me/addtheme/kokegiri
+*こけぎり · moss fog* · `koke-giri.tgios-theme` 
+https://t.me/addtheme/kokegiri
 
 Deep forest after rain. Green-tinted blacks, misty grey-green text, soft moss bubbles.
 
 ### 朝霧 Asagiri — Light
-*あさぎり · morning mist* · `asagiri.tgios-theme` https://t.me/addtheme/asagari
+*あさぎり · morning mist* · `asagiri.tgios-theme` 
+https://t.me/addtheme/asagari
 
 Dawn mist over a still lake. Cool grey-green whites, pale jade outgoing bubbles, deep pine accent.
 
@@ -42,12 +46,14 @@ Dawn mist over a still lake. Cool grey-green whites, pale jade outgoing bubbles,
 Moonlight and snow in a mountain temple. Accent: pale gold.
 
 ### 杉月 Sugi-tsuki — Dark
-*すぎつき · cedar moon* · `sugi-tsuki.tgios-theme` https://t.me/addtheme/sugitsuki
+*すぎつき · cedar moon* · `sugi-tsuki.tgios-theme` 
+https://t.me/addtheme/sugitsuki
 
 Moonlight between tall cedars. Blue-black night, cool silver text, pale moon-gold accent.
 
 ### 雪寺 Yuki-dera — Light
-*ゆきでら · snow temple* · `yuki-dera.tgios-theme` https://t.me/addtheme/yukidera
+*ゆきでら · snow temple* · `yuki-dera.tgios-theme` 
+https://t.me/addtheme/yukidera
 
 A temple under fresh snow. Clean snow-white with cool grey, warm sand bubbles like old temple wood, bronze accent.
 
