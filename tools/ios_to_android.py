@@ -16,6 +16,7 @@ How it works
   colored keys become the accent (red keys become the destructive color).
 - A few text/background pairs are corrected when the contrast is below 3.
 - Raster themes (--raster, or a path with /Raster/) also get neutral avatars and flat bubbles.
+Colors are written as decimal ARGB numbers, like Telegram's own .attheme files.
 The result is close to the iOS theme but not identical. It needs a check on a real Android phone.
 """
 import sys, os, re, colorsys, glob, urllib.request
@@ -234,7 +235,9 @@ def convert(path, raster):
     return out, report
 
 def render(out):
-    return ''.join('%s=#%08x\n' % (k, v) for k, v in sorted(out.items()))
+    # decimal signed 32-bit ARGB, the format Telegram itself writes (hex would be read as RRGGBBAA by some tools)
+    sint = lambda v: v - (1 << 32) if v >= (1 << 31) else v
+    return ''.join('%s=%d\n' % (k, sint(v)) for k, v in sorted(out.items()))
 
 
 _TEMPLATES = None

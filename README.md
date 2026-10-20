@@ -4,17 +4,14 @@ Custom color themes for Telegram on iOS (`.tgios-theme` files) and on Android (`
 
 ## Installation
 
-### iPhone
+Open the link of a theme below on your phone, then tap **Apply**. That is all. The same link works on iPhone and on Android: each theme in Telegram holds both an iOS and an Android file.
 
-Open the link of a theme below on your iPhone, then tap **Apply**. That is all.
+To switch between light and dark automatically, apply the light theme first. Then open Auto-Night Mode, choose **Automatic** or **Scheduled**, and pick the dark theme of the same set.
 
-To switch between light and dark automatically, apply the light theme first. Then go to **Settings › Appearance › Auto-Night Mode**, choose **Automatic** or **Scheduled**, and pick the dark theme of the same set.
+- iPhone: **Settings › Appearance › Auto-Night Mode**
+- Android: **Settings › Chat Settings › Auto-Night Mode**
 
-### Android
-
-Download the `.attheme` file of a theme from this repository (it is next to the `.tgios-theme` file with the same name) and send it to yourself, for example in Saved Messages. Tap the file in Telegram and choose **Apply**. Auto-Night Mode works the same way as on iPhone: **Settings › Chat Settings › Auto-Night Mode**.
-
-The Android themes are converted from the iOS ones, so they look very similar but not identical. The iOS links on this page work on iPhone only.
+The Android files are converted from the iOS ones, so the themes look very similar but not identical.
 
 ## Theme sets
 
@@ -35,9 +32,9 @@ Two minimal themes in the Swiss style: black and white with one red accent.
 - Light: [raster-weiss](https://t.me/addtheme/rasterWeiss)
 - Dark: [raster-schwarz](https://t.me/addtheme/rasterSchwarz)
 
-## Install from a file (iPhone)
+## Install from a file
 
-If a link does not work, send the `.tgios-theme` file to yourself (for example, in Saved Messages), tap it in Telegram for iOS and choose **Apply**.
+If a link does not work, send the theme file to yourself (for example, in Saved Messages), tap it in Telegram and choose **Apply**. Use the `.tgios-theme` file on iPhone and the `.attheme` file on Android.
 
 ## Converter (iOS → Android)
 

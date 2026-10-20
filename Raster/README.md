@@ -1,4 +1,4 @@
-# Raster — Telegram iOS themes
+# Raster — Telegram iOS and Android themes
 
 A pair of minimal Telegram themes after the Swiss International Typographic Style: a white or black background, ink-colored text, one red accent and strong dividers. No tints, no gradients, no decoration.
 
@@ -34,8 +34,8 @@ https://t.me/addtheme/rasterSchwarz
 
 ## Install
 
-**Android:** send the `.attheme` file (`raster-weiss.attheme` or `raster-schwarz.attheme`) to any chat, tap it in Telegram and choose Apply. These files are converted from the iOS themes, so the look is very close but not identical.
+Open the link of a theme above and tap Apply. The same link works on iPhone and on Android.
 
-**iPhone:** send the `.tgios-theme` file to any chat (Saved Messages works), tap it in Telegram for iOS, then tap Apply.
+From a file: send the file to any chat (Saved Messages works), tap it in Telegram, then tap Apply. Use the `.tgios-theme` file on iPhone and the `.attheme` file (`raster-weiss.attheme`, `raster-schwarz.attheme`) on Android. The Android files are converted from the iOS themes, so the look is very close but not identical.
 
 Telegram fixes the bubble and avatar shapes, so these themes change colors only.
