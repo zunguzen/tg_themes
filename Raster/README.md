@@ -34,6 +34,8 @@ https://t.me/addtheme/rasterSchwarz
 
 ## Install
 
-Send the `.tgios-theme` file to any chat (Saved Messages works), tap it in Telegram for iOS, then tap Apply.
+**Android:** send the `.attheme` file (`raster-weiss.attheme` or `raster-schwarz.attheme`) to any chat, tap it in Telegram and choose Apply. These files are converted from the iOS themes, so the look is very close but not identical.
+
+**iPhone:** send the `.tgios-theme` file to any chat (Saved Messages works), tap it in Telegram for iOS, then tap Apply.
 
 Telegram fixes the bubble and avatar shapes, so these themes change colors only.
