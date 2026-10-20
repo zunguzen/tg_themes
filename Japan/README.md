@@ -1,17 +1,17 @@
-# 霧 Kiri — Zen themes for Telegram iOS
+# 霧 Kiri — Zen themes for Telegram iOS and Android
 
 Six quiet themes inspired by Japanese landscapes: fog, ink, forest, moon and snow.
 They come in three dark/light pairs, so you can use them with Auto-Night Mode.
 
 ## Installation
 
-**Android:** each theme also has an `.attheme` file with the same name (for example `washi.attheme`). Send it to yourself, tap it and choose **Apply**. The iOS links below work on iPhone only.
+Open the link of a theme below on your phone and tap **Apply**. The same link works on iPhone and on Android. If a link does not work, install from a file:
 
-**iPhone:**
+- iPhone: use the `.tgios-theme` file. Android: use the `.attheme` file with the same name (for example `washi.attheme`).
 
-1. Send a `.tgios-theme` file to yourself (for example, in Saved Messages).
+1. Send the theme file to yourself (for example, in Saved Messages).
 2. Tap the file and choose **Apply**.
-3. To switch automatically, apply the light theme first. Then go to **Settings › Appearance › Auto-Night Mode**, choose **Automatic** or **Scheduled**, and pick the dark theme from the same pair.
+3. To switch automatically, apply the light theme first. Then go to Auto-Night Mode (iPhone: **Settings › Appearance**, Android: **Settings › Chat Settings**), choose **Automatic** or **Scheduled**, and pick the dark theme from the same pair.
 
 ## 墨 Sumi · Ink
 
