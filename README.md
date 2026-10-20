@@ -39,12 +39,25 @@ Two minimal themes in the Swiss style: black and white with one red accent.
 
 If a link does not work, send the `.tgios-theme` file to yourself (for example, in Saved Messages), tap it in Telegram for iOS and choose **Apply**.
 
+## Converter (iOS → Android)
+
+`tools/ios_to_android.py` makes the `.attheme` files from the `.tgios-theme` files. It needs Python 3 and an internet connection (it reads Telegram's list of Android color keys once and keeps it in `tools/.cache`).
+
+```
+python3 tools/ios_to_android.py                          # all themes
+python3 tools/ios_to_android.py Japan/washi.tgios-theme  # one theme
+python3 tools/ios_to_android.py --check                  # do the .attheme files match the .tgios-theme files?
+```
+
+Change an iOS theme, run the script, and commit both files. For a new theme in a set whose look should be neutral (like Raster), put it in the `Raster/` folder or add `--raster`.
+
 ## Repository layout
 
 ```
 tg_themes/
 ├── Japan/    six themes (.tgios-theme and .attheme) + README
-└── Raster/   two themes (.tgios-theme and .attheme) + README
+├── Raster/   two themes (.tgios-theme and .attheme) + README
+└── tools/    ios_to_android.py
 ```
 
 ## Notes
