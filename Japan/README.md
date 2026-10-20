@@ -37,7 +37,7 @@ Deep forest after rain. Green-tinted blacks, misty grey-green text, soft moss bu
 
 ### 朝霧 Asagiri — Light
 *あさぎり · morning mist* · `asagiri.tgios-theme` 
-https://t.me/addtheme/asagari
+https://t.me/addtheme/asagiri
 
 Dawn mist over a still lake. Cool grey-green whites, pale jade outgoing bubbles, deep pine accent.
 
