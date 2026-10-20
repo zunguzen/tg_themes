@@ -4,8 +4,10 @@ A pair of minimal Telegram themes after the Swiss International Typographic Styl
 
 ## Files
 
-- `raster-weiss.tgios-theme`: light theme (based on Day) https://t.me/addtheme/rasterSchwarz
-- `raster-schwarz.tgios-theme`: dark theme (based on Night) https://t.me/addtheme/rasterWeiss
+- `raster-weiss.tgios-theme`: light theme (based on Day)
+https://t.me/addtheme/rasterSchwarz
+- `raster-schwarz.tgios-theme`: dark theme (based on Night)
+https://t.me/addtheme/rasterWeiss
 
 ## Palette
 
