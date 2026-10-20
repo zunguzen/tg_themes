@@ -24,8 +24,8 @@ Six quiet, Zen-inspired themes in three dark/light pairs: ink, mist, moon and sn
 
 Two minimal themes in the Swiss style: black and white with one red accent.
 
-- Light: [raster-weiss](https://t.me/addtheme/rasterSchwarz)
-- Dark: [raster-schwarz](https://t.me/addtheme/rasterWeiss)
+- Light: [raster-weiss](https://t.me/addtheme/rasterWeiss)
+- Dark: [raster-schwarz](https://t.me/addtheme/rasterSchwarz)
 
 ## Install from a file
 
