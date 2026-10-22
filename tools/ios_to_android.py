@@ -91,7 +91,7 @@ def ios_color(s):
     if s == 'clear': return 0
     h = s[1:]
     if len(h) == 6: return 0xFF000000 | int(h, 16)
-    return ((int(h[6:8], 16)) << 24) | int(h[:6], 16)
+    return int(h, 16)  # iOS themes write transparent colors as #AARRGGBB (alpha first)
 
 def read_ios(path):
     d = {}

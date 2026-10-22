@@ -60,4 +60,5 @@ tg_themes/
 ## Notes
 
 - The themes change colors only. Telegram fixes the shapes of bubbles and avatars.
+- Color format in `.tgios-theme` files: `#RRGGBB`, and `#AARRGGBB` when the color is transparent (alpha first, as Telegram for iOS reads it). Writing the alpha last shows wrong colors (for example bright yellow instead of a soft white highlight).
 - `.tgios-theme` files are for Telegram on iOS, `.attheme` files are for Telegram on Android. They do not work in the other app.
